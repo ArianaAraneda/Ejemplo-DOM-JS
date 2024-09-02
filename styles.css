@@ -1,0 +1,29 @@
+body {
+    background-color: #a7c2dd;
+}
+
+h2 {
+    color: #343a40;
+}
+
+#carrito {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#ticket {
+    background-color: #d1d9f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    margin-bottom: 15px;
+}
+
+.img-fluid {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
